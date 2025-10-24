@@ -1,0 +1,2 @@
+Observando as duas logs, podemos notar uma "dessincronização" do produtor e consumidor. Isso ocorre pois ambos partilham o mesmo
+"objeto" dentro do código, causa um "condição de corrida".
