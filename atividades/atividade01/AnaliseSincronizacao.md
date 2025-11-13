@@ -40,7 +40,7 @@ podendo assim fazer com que chegue a 100% de uso.
 
 # Eventos
 
-![imagem relacionada à codificação](evetosCod.png)
+![imagem relacionada à codificação](eventosCod.png)
 
 ![imagem da log do problema](eventosLog.png)
 
