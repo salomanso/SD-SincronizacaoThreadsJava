@@ -1,8 +1,8 @@
 # Problemas
 
-![imagem relacionada à codificação](https://github.com/salomanso/SD-SincronizacaoThreadsJava/blob/main/atividades/atividade01/image.png)
+![imagem relacionada à codificação](image.png)
 
-![imagem da log do problema](image.png)
+![imagem da log do problema](produtorConsumidor.png)
 
 ## Relatório/explicação
 
@@ -20,9 +20,9 @@ dessincronização.
 
 # Monitor
 
-![imagem relacionada à codificação](image.png)
+![imagem relacionada à codificação](monitorCod.png)
 
-![imagem da log do problema](image.png)
+![imagem da log do problema](monitorLog.png)
 
 ## Relatório/explicação
 
@@ -40,9 +40,9 @@ podendo assim fazer com que chegue a 100% de uso.
 
 # Eventos
 
-![imagem relacionada à codificação](image.png)
+![imagem relacionada à codificação](evetosCod.png)
 
-![imagem da log do problema](image.png)
+![imagem da log do problema](eventosLog.png)
 
 ## Relatório/explicação
 
