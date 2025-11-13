@@ -2,7 +2,7 @@
 
 ![imagem relacionada à codificação](image.png)
 
-¡.![imagem da log do problema](produtorConsumidor.png)
+![imagem da log do problema](produtorConsumidor.png)
 
 ## Relatório/explicação
 
