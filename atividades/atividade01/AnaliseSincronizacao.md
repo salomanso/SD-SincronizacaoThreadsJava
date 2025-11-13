@@ -6,13 +6,13 @@
 
 ## Relatório/explicação
 
-Após compilar e executar o arquivo (criando também uma log), ficou claro na mesma que no codigo existe uma race condition(condição de corrida).  
+* Após compilar e executar o arquivo (criando também uma log), ficou claro na mesma que no codigo existe uma race condition(condição de corrida).  
 
 ### Mas como funciona?
 
-A race condition basicamente acontece quando duas ou mais threads acessam ou modificam o mesmo recurso, mas nesse caso sem qualquer sincronização.
+* A race condition basicamente acontece quando duas ou mais threads acessam ou modificam o mesmo recurso, mas nesse caso sem qualquer sincronização.
 
-No caso do nosso codigo, a race condition faz com que o **produtor** e o **consumidor** acessem simultaneamente uma mesma várialvel, provocando uma total  
+* No caso do nosso codigo, a race condition faz com que o **produtor** e o **consumidor** acessem simultaneamente uma mesma várialvel, provocando uma total  
 dessincronização.
 
 * Em minha opinião explicar essa condição é muito educativo, pois apesar de ela provavelmente poder ser usada para outras coisas(que não envolvem ordem nem atualizações),  
